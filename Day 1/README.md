@@ -1,4 +1,4 @@
-### ✅ Day 1 - [Insert Date]
+### ✅ Day 1 - [6 April 2025]
 **Topic:** Git & GitHub Advanced Concepts  
 **What I learned:**
 - Core Git terminology (repo, commit, branch, merge, etc.)
