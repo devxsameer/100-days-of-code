@@ -1,0 +1,80 @@
+/* EXTERNAL CSS */
+
+/* Universal Selector */
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    box-sizing: border-box;
+}
+/* Id Selector */
+#div3{
+    /* CSS Borders */
+    border-width: 5px;
+    border-style: dotted dashed solid none;
+    border-color: red black green;
+    background-color: rgb(185, 245, 255);
+}
+#maindiv{
+    border: 2px solid black;
+}
+#linkdiv{
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid ;
+}
+#mybox{
+    box-sizing: border-box;
+    border: 20px solid black;
+    width: auto;
+    padding: 100px;
+    margin: 50px;
+    height: 340px;
+}
+#myboxdiv{
+    background-color: brown;
+    height: 100%;
+    width: 100%;
+}
+/* Child Combinator Selector */
+body > h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 15px;
+}
+/* Class Selector */
+.mydiv{
+    padding: 20px;
+    margin: 20px;
+    /* Shorthand Border Property */
+    border-left: 5px solid black;
+}
+/* Descendent Combinator Selector */
+div b{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* Next Sibling Combinator Selector */
+div + h3{
+    color: red;
+}
+/* Subsequent Sibling Combinator Selector */
+div ~ h3{
+    font-style: oblique;
+}
+/* Psuedo Classes Selectors */
+#maindiv:first-child{
+    text-decoration: underline;
+}
+a:link{
+    text-decoration: none;
+    border: 2px solid black;
+    color: red;
+}
+a:visited{
+    color: green;
+}
+a:hover{
+    color:black
+}
+#linkdiv:hover{
+    background-color: aquamarine;
+}

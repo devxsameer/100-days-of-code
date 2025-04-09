@@ -33,7 +33,19 @@ I'm not saying I became a DevOps engineer today...
 
 - Built a fun little project: **"If HTML Tags Were People"** 😄
 - Only used `HTML` — no `CSS`, no `JS`, just pure tag-powered creativity!
-- Check it out and let me know what you think 👇    
-  🔗 [`Live Demo`](https://devxsameer.github.io/basic-projects/Project1)       
-- See Project 1 in [`Projects Repo`](https://github.com/devxsameer/basic-projects/)     
-  #FullStackJourney #DevLife
+- Check it out and let me know what you think 👇  
+  🔗 [`Live Demo`](https://devxsameer.github.io/basic-projects/Project1)
+- See Project 1 in 🔗[`Projects Repo`](https://github.com/devxsameer/basic-projects/)  
+  #FullStackJourney #DevLife #Project1
+
+### ✅ Day 4 - [9 April 2025]
+
+**Topic:** CSS Revision  
+**What I learned:**
+
+- 📦 **CSS Box Model**
+- 🎯 **CSS Selectors**
+- 🖌️ **Borders**
+- 📐 **Sizing**
+- 🎨 **Colors**  
+  #FullStackJourney #DevLife #CSS
