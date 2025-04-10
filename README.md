@@ -49,3 +49,15 @@ I'm not saying I became a DevOps engineer today...
 - 📐 **Sizing**
 - 🎨 **Colors**  
   #FullStackJourney #DevLife #CSS
+
+### ✅ Day 5 - [10 April 2025]
+
+**Topic:** CSS Revision 2  
+**What I learned:**
+
+- 🔢 **Specificity** (aka “who wins the style fight”)
+- 🌈 **Backgrounds** that pop
+- 🖋️ **Fonts** & **text** with ✨vibes✨
+- 📦 **Display**: block, inline, flex — oh my!  
+  CSS is starting to make sense! 😎  
+  #WebDev #CSS #Frontend #FullStackJourney

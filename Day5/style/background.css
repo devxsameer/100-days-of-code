@@ -1,0 +1,10 @@
+#divwithbg1{
+    background-color: rgb(127, 255, 212, 0.5);
+    /* opacity: 0.5; */
+}
+#divwithbg2{
+    background-color: aqua;
+    background-image: url("../myimage.jpg");
+    background-repeat: repeat-x;
+    background-size: contain;
+}

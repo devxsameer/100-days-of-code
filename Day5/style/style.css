@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.maindiv{
+    background-color: aliceblue;
+    min-height: 100vh;
+    text-align: justify;
+    padding: 20px;
+}
+.childdiv{
+    border: 2px solid black;
+    min-height: 35vh;
+    margin: 10px;
+    padding: 10px;
+}
+::selection{
+    background-color: black;
+    color: white;
+}
+h1{
+    /* Changing Font Internally */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#sfont{
+    /* Using Google Fonts */
+    font-family: "Winky Rough", sans-serif;
+    font-weight: 200;
+}
+#sfont::first-line{
+    font-style: oblique;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+#divwithbg2 p {
+    font-weight: 800;
+    line-height: 16px;
+}
+#imagetext::first-line{
+    text-decoration-line: underline line-through;
+    text-decoration-color: red;
+    text-decoration-style: dashed;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 3px red;
+}
