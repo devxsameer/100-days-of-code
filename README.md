@@ -61,3 +61,17 @@ I'm not saying I became a DevOps engineer today...
 - 📦 **Display**: block, inline, flex — oh my!  
   CSS is starting to make sense! 😎  
   #WebDev #CSS #Frontend #FullStackJourney
+
+### ✅ Day 6 - [1 May 2025]
+
+**Topic:** CSS Revision 3  
+**What I learned:**
+
+- 🌑 **Box & Text Shadows**
+  - Added dimension and depth using `box-shadow` and `text-shadow`
+- 🖊️ **Outline**
+  - Learned the difference between `outline` and `border`, and when to use each
+- 📏 **Advanced Sizing Units**
+  - Practiced with `%`, `em`, `rem`, `vh`, `vw`, and `min/max-width` properties
+- 📋 **Styling Lists**
+  - Customized bullet points, list positions, and added flair using `::marker` and pseudo-elements
