@@ -75,3 +75,20 @@ I'm not saying I became a DevOps engineer today...
   - Practiced with `%`, `em`, `rem`, `vh`, `vw`, and `min/max-width` properties
 - 📋 **Styling Lists**
   - Customized bullet points, list positions, and added flair using `::marker` and pseudo-elements
+
+### ✅ Day 7 - [2 May 2025]
+
+**Topic:** Project Using HTML, CSS : Profile Card Design  
+**What I Used:**
+
+- HTML5 for structure
+- CSS3 for styling
+  - Box model
+  - Shadows (`box-shadow`)
+  - Fonts & text alignment
+  - Spacing with `margin` & `padding`
+  - Flexbox for alignment
+  - Responsive units (`%`, `rem`, `em`)
+- Check it out and let me know what you think 👇 🔗[`Live Demo`](https://devxsameer.github.io/basic-projects/Project2)
+- See Project 2 in 🔗[`Projects Repo`](https://github.com/devxsameer/basic-projects/)  
+  #FullStackJourney #DevLife #Project2
