@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.maincontainer {
+  height: 200vh;
+  width: 100vw;
+  background-color: antiquewhite;
+  padding: 20px;
+}
+.box {
+  height: 20vh;
+  width: 20vw;
+  background-color: aquamarine;
+  border: 2px solid red;
+}
+#box1 {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+#box2 {
+  background-color: aliceblue;
+  width: 30vw;
+  position: relative;
+  left: 40vw;
+}
+#box3 {
+  background-color: navajowhite;
+  width: 90vw;
+  position: fixed;
+  right: 0px;
+  z-index: 100;
+}
+#box4 {
+  background-color: burlywood;
+  width: 60vw;
+  position: absolute;
+  bottom: 0;
+}

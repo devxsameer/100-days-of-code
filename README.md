@@ -92,3 +92,14 @@ I'm not saying I became a DevOps engineer today...
 - Check it out and let me know what you think 👇 🔗[`Live Demo`](https://devxsameer.github.io/basic-projects/Project2)
 - See Project 2 in 🔗[`Projects Repo`](https://github.com/devxsameer/basic-projects/)  
   #FullStackJourney #DevLife #Project2
+
+### ✅ Day 8 - [3 May 2025]
+
+**Topic:** CSS Revision 4  
+**What I Learnt:**
+
+- Media Queries
+- 🎨 CSS Variables
+- CSS Position Property
+- 📦 CSS Overflow  
+  #FullStackJourney #DevLife #CSS

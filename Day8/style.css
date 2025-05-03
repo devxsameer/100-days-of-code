@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.overflowbox {
+  height: 199px;
+  width: 300px;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  display: inline-block;
+}
+#box1 {
+  background-color: olive;
+  overflow: auto;
+}
+#box2 {
+  background-color: aquamarine;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
