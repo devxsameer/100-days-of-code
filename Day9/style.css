@@ -1,0 +1,13 @@
+.container {
+  border: 2px solid black;
+  display: flow-root;
+}
+.card {
+  border: 2px solid red;
+}
+.container > img {
+  float: left;
+}
+.card:nth-child(3){
+    clear: left;
+}

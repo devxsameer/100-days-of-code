@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learning CSS Flexbox</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        margin: 20px auto;
+        width: 80vw;
+        height: 90vh;
+        background-color: brown;
+        border: 10px solid burlywood;
+        display: flex;
+        /* flex-direction: row;
+        flex-wrap: wrap; */
+        flex-flow: row wrap;
+        gap: 10px;
+        align-content: flex-start;
+        align-items: flex-end;
+      }
+      .box {
+        width: 100px;
+        height: 100px;
+        background-color: beige;
+        border: 2px solid black;
+        flex-grow: 1;
+      }
+      .box3 {
+        flex: 1 1 200px;
+      }
+      .box4 {
+        flex: 10 1;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box box1">1</div>
+      <div style="width: 200px; height: 200px" class="box box2">2</div>
+      <div class="box box3">3</div>
+      <div class="box box4">4</div>
+      <div class="box box5">5</div>
+      <div class="box box6" style="order: -1">6</div>
+      <div class="box box7">7</div>
+      <div class="box box8">8</div>
+      <div class="box box9">9</div>
+      <div class="box box10">10</div>
+    </div>
+  </body>
+</html>
