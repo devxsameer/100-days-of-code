@@ -59,8 +59,7 @@ I'm not saying I became a DevOps engineer today...
 - 🌈 **Backgrounds** that pop
 - 🖋️ **Fonts** & **text** with ✨vibes✨
 - 📦 **Display**: block, inline, flex — oh my!  
-  CSS is starting to make sense! 😎  
-  #WebDev #CSS #Frontend #FullStackJourney
+  CSS is starting to make sense! 😎
 
 ### ✅ Day 6 - [1 May 2025]
 
@@ -114,3 +113,18 @@ I'm not saying I became a DevOps engineer today...
 - 📦 Flexbox
 - 🔲 CSS Grid  
   #FullStackJourney #DevLife #CSS
+
+### ✅ Day 10 - [10 May 2025]
+
+**Topic:** Completed Completed the **Odin Recipes** project and Created basic Flexbox Layout  
+**What I Learnt:**
+
+- Built a multi-page HTML website
+- Used semantic HTML to organize content
+- Practiced linking between pages with relative paths
+- Experimented with:
+  - `justify-content`
+  - `align-items`
+  - `flex-direction`
+  - `gap`, `flex-wrap`
+- 🍽️ [Odin Recipes GitHub Repo](https://github.com/devxsameer/odin-recipes)
