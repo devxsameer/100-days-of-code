@@ -164,3 +164,17 @@ I'm not saying I became a DevOps engineer today...
   - 🔗 See Project 3 in [This GitHub Repo](https://github.com/devxsameer/basic-projects)
 
 ---
+
+### ✅ Day 12 - [12 May 2025]
+
+**Topic:** Today marks the beginning of my journey into **JavaScript**! 🚀  
+I focused on learning the fundamentals and setting up my environment for future JS projects.  
+**What I Learnt:**
+
+- Learned about **variables** and how to declare them using `let`, `const`, and `var`
+- Explored **JavaScript operators** (arithmetic, assignment, comparison, logical)
+- Installed **Node.js** using **NVM** (Node Version Manager)
+- Understood different **data types** (string, number, boolean, null, undefined, object)
+- Practiced using **conditional statements** (`if`, `else if`, `else`, and `switch`)
+
+---
