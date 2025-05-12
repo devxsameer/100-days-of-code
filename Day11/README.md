@@ -6,9 +6,9 @@ Today was all about layout and design! I completed two landing page projects tha
 
 ## 🧱 First Project : Odin Landing Page
 
-Built as part of [The Odin Project](https://www.theodinproject.com/), this project helped me apply Flexbox and semantic HTML to recreate a professional-looking landing page based on a reference design.
+Built as part of [`The Odin Project`](https://www.theodinproject.com/), this project helped me apply Flexbox and semantic HTML to recreate a professional-looking landing page based on a reference design.
 
-🔗 [View GitHub Repo](https://github.com/devxsameer/odin-landing-page)
+🔗 [`View GitHub Repo`](https://github.com/devxsameer/odin-landing-page)
 
 ### ✅ Key Concepts Practiced:
 
@@ -23,7 +23,7 @@ Built as part of [The Odin Project](https://www.theodinproject.com/), this proje
 
 This was a custom landing page with List Design inspired by a restaurant-themed design image. The challenge? I made it **fully responsive** using **only Flexbox**, with **no media queries** at all!
 
-🔗 See Project 3 in [This GitHub Repo](https://github.com/devxsameer/basic-projects)
+🔗 See `landing-page-list-design` in [`my basic-projects repo`](https://github.com/devxsameer/basic-projects)
 
 ### ✅ Key Concepts Practiced:
 

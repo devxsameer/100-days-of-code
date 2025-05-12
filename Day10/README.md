@@ -21,7 +21,7 @@ I focused on applying my HTML and CSS knowledge through both project-based learn
   - `align-items`
   - `flex-direction`
   - `gap`, `flex-wrap` 
-  - 🍽️ [Odin Recipes GitHub Repo](https://github.com/devxsameer/odin-recipes)
+  - 🍽️ [`Odin Recipes GitHub Repo`](https://github.com/devxsameer/odin-recipes)
 
 ---
 

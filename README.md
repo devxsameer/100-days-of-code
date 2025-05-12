@@ -40,8 +40,8 @@ I'm not saying I became a DevOps engineer today...
 - Built a fun little project: **"If HTML Tags Were People"** 😄
 - Only used `HTML` — no `CSS`, no `JS`, just pure tag-powered creativity!
 - Check it out and let me know what you think 👇  
-  🔗 [`Live Demo`](https://devxsameer.github.io/basic-projects/Project1)
-- See Project 1 in 🔗[`Projects Repo`](https://github.com/devxsameer/basic-projects/)  
+  🔗 [`Live Demo`](https://devxsameer.github.io/basic-projects/if-html-tags-were-people)
+- See `if-html-tags-were-people` in 🔗[`my basic-projects repo`](https://github.com/devxsameer/basic-projects/)  
   #FullStackJourney #DevLife #Project1
 
 ---
@@ -102,8 +102,8 @@ I'm not saying I became a DevOps engineer today...
   - Spacing with `margin` & `padding`
   - Flexbox for alignment
   - Responsive units (`%`, `rem`, `em`)
-- Check it out and let me know what you think 👇 🔗[`Live Demo`](https://devxsameer.github.io/basic-projects/Project2)
-- See Project 2 in 🔗[`Projects Repo`](https://github.com/devxsameer/basic-projects/)  
+- Check it out and let me know what you think 👇 🔗[`Live Demo`](https://devxsameer.github.io/basic-projects/css-profile-card)
+- See `css-profile-card` in 🔗[`my basic-projects repo`](https://github.com/devxsameer/basic-projects/)  
   #FullStackJourney #DevLife #Project2
 
 ---
@@ -147,7 +147,7 @@ I'm not saying I became a DevOps engineer today...
   - `align-items`
   - `flex-direction`
   - `gap`, `flex-wrap`
-- 🍽️ [Odin Recipes GitHub Repo](https://github.com/devxsameer/odin-recipes)
+- 🍽️ [`Odin Recipes GitHub Repo`](https://github.com/devxsameer/odin-recipes)
 
 ---
 
@@ -157,11 +157,11 @@ I'm not saying I became a DevOps engineer today...
 **What I Learnt:**
 
 - Built Project : Odin Landing Page
-  - Built as part of [The Odin Project](https://www.theodinproject.com/)
-  - 🔗 [View GitHub Repo](https://github.com/devxsameer/odin-landing-page)
+  - Built as part of [`The Odin Project`](https://www.theodinproject.com/)
+  - 🔗 [`View GitHub Repo`](https://github.com/devxsameer/odin-landing-page)
 - Built Project : Responsive Restaurant Landing Page with List Design (Without Media Queries)
   - This was a custom landing page with List Design inspired by a restaurant-themed design image. The challenge? I made it **fully responsive** using **only Flexbox**, with **no media queries** at all!
-  - 🔗 See Project 3 in [This GitHub Repo](https://github.com/devxsameer/basic-projects)
+  - 🔗 See `landing-page-list-design` in [`my basic-projects repo`](https://github.com/devxsameer/basic-projects)
 
 ---
 

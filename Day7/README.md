@@ -4,5 +4,5 @@ As part of Day 7 of my **#100DaysOfCode** journey, I created a simple yet visual
 
 ---
 
-- Check it out and let me know what you think 👇 🔗[`Live Demo`](https://devxsameer.github.io/basic-projects/Project2)
-- See Project 2 in [`Projects Repo`](https://github.com/devxsameer/basic-projects/)
+- Check it out and let me know what you think 👇 🔗[`Live Demo`](https://devxsameer.github.io/basic-projects/css-profile-card)
+- See `css-profile-card` in [`my basic-projects repo`](https://github.com/devxsameer/basic-projects/)
