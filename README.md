@@ -178,3 +178,19 @@ I focused on learning the fundamentals and setting up my environment for future 
 - Practiced using **conditional statements** (`if`, `else if`, `else`, and `switch`)
 
 ---
+
+### ✅ Day 13 - [13 May 2025]
+
+**Topic:** Today was all about deepening my **JavaScript** fundamentals and improving my **development environment** setup for a smoother workflow! 🛠️
+**What I Learnt:**
+
+- Continued with **JavaScript lessons** from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+  - Practiced basic expressions and problem-solving
+  - Strengthened my understanding of variables, operators, conditionals
+- Set up **WSL 2** (Windows Subsystem for Linux) for a better dev environment
+  - Installed Ubuntu via WSL
+  - Linked it to VS Code
+  - Verified Node.js and Git setup within WSL  
+    #JavaScript #TheOdinProject #100DaysOfCode #WebDevelopment #WSL2 #CodeNewbie
+
+---
