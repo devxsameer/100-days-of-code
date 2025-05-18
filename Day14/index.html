@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Some Js Functions</title>
+  </head>
+  <body>
+    <script>
+      // Declaring Functions
+      function add7(num) {
+        return num + 7;
+      }
+      function multiply(num1, num2) {
+        return num1 * num2;
+      }
+      let capitalize = function (str) {
+        return str.charAt(0).toUpperCase() + str.slice(1);
+      };
+      let lastLetter = (str) => str.charAt(str.length - 1);
+
+      // Using Functions
+      console.log(add7(3));
+      console.log(multiply(5, 3));
+      console.log(capitalize("saMeer Ali"));
+      console.log(lastLetter("Sameer"));
+    </script>
+  </body>
+</html>

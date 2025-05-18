@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JS Functions</title>
+  </head>
+  <body>
+    <input type="text" name="mytext" id="mytextbox" />
+    <input type="button" value="hello" id="mybtn" />
+    <script>
+      function favAnimal(fav) {
+        return `${fav} is my favorite animal`;
+      }
+      console.log(favAnimal("GOAT"));
+      console.log(favAnimal);
+      const mytextbox = document.getElementById("mytextbox");
+      const mybtn = document.getElementById("mybtn");
+      //   Anonymous Function
+      mytextbox.addEventListener("keydown", function (event) {
+        console.log(event.key);
+      });
+      // Arrow Function
+      mybtn.addEventListener("click", (event) => {
+        console.log(event.currentTarget);
+      });
+      const originals = [1, 2, 3];
+
+      const doubled = originals.map((item) => item + 2);
+
+      console.log(doubled);
+      console.log(doubled.length);
+    </script>
+  </body>
+</html>

@@ -194,3 +194,19 @@ I focused on learning the fundamentals and setting up my environment for future 
     #JavaScript #TheOdinProject #100DaysOfCode #WebDevelopment #WSL2 #CodeNewbie
 
 ---
+
+### ✅ Day 14 - [18 May 2025]
+
+**Topic:** Today I continued my deep dive into **JavaScript** through The Odin Project, and explored how things work behind the scenes using the **browser developer tools**. 🧠🛠️  
+**What I Learnt:** 
+
+- Completed more lessons from the **JavaScript Foundations** section of [The Odin Project](https://www.theodinproject.com/)
+- Learned about:
+  - 🔹 **Functions** and how to declare & invoke them
+  - 🔹 **Function scope** (global vs. local)
+  - 🔹 The **call stack** and how functions are executed in order
+- Explored the **browser developer tools**:
+  - Used **console**, **sources**, and **network** tabs
+  - Practiced debugging and stepping through JS code
+
+#JavaScript #100DaysOfCode #WebDevelopment #TheOdinProject #DevTools #Frontend 
