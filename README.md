@@ -210,3 +210,24 @@ I focused on learning the fundamentals and setting up my environment for future 
   - Practiced debugging and stepping through JS code
 
 #JavaScript #100DaysOfCode #WebDevelopment #TheOdinProject #DevTools #Frontend 
+
+---
+
+### ✅ Day 15 - [19 May 2025]
+
+**Topic:** Today was an exciting and productive step in my JavaScript journey! 🧠💻  
+**What I Learnt:** 
+
+- Continued with [The Odin Project](https://www.theodinproject.com/) JavaScript Foundations curriculum
+- Completed lessons on:
+  - 🔍 Understanding and handling **JavaScript errors**
+  - 🧩 Basics of **problem-solving** and breaking down problems
+- Built the classic **Rock Paper Scissors** game using:
+  - HTML + CSS for structure and style
+  - JavaScript for interactivity and logic
+- Practiced:
+  - DOM manipulation
+  - Event listeners
+  - Writing clean, functional code
+
+#JavaScript #TheOdinProject #100DaysOfCode #ProblemSolving #WebDev #Frontend #RockPaperScissors
