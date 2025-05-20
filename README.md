@@ -231,3 +231,21 @@ I focused on learning the fundamentals and setting up my environment for future 
   - Writing clean, functional code
 
 #JavaScript #TheOdinProject #100DaysOfCode #ProblemSolving #WebDev #Frontend #RockPaperScissors
+
+---
+
+### ✅ Day 15 - [20 May 2025]
+
+**Topic:** Today was all about writing better code and understanding core JavaScript concepts more deeply. 🧠💻  
+**What I Learnt:** 
+
+- Continued with [The Odin Project](https://www.theodinproject.com/) JavaScript Foundations curriculum
+- Learned about:
+  - ✨ Writing **clean and readable code**
+  - 🔁 **Loops** (for, while) and how they help iterate efficiently
+  - 📦 **Arrays** and useful **array methods** like `push()`, `pop()`, `shift()`, `unshift()`, `splice()`, etc.
+  - 🌐 **DOM Manipulation** using `querySelector`, `createElement`, `appendChild`, and more
+  - 🖱️ **Event listeners** for adding interactivity to web pages
+
+
+#100DaysOfCode #JavaScript #TheOdinProject #WebDevelopment  #CleanCode #DOM #Frontend

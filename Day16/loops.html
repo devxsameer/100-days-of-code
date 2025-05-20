@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JS Loops And Arrays</title>
+  </head>
+  <body>
+    <h2
+      style="
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+          'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      "
+    >
+      See Console!
+    </h2>
+    <script>
+      // JS Arrays
+      const shoppingList = ["eggs", "beef", "rice"];
+      shoppingList.push("corn");
+      shoppingList.push(["butter", "bread"]);
+      console.log(shoppingList, shoppingList.length);
+      console.log(shoppingList[4]);
+      console.log(shoppingList[4][0]);
+      shoppingList[4][1] = "naan";
+      console.log(shoppingList[4]);
+      shoppingList.push("cake");
+      console.log(shoppingList);
+      console.log(shoppingList.pop());
+      console.log(shoppingList);
+      console.log(shoppingList.shift());
+      console.log(shoppingList);
+      console.log(shoppingList.unshift("eggs"));
+      console.log(shoppingList);
+      //   Some Array Methods
+      shoppingList.forEach((item, index, array) => {
+        console.log(`${item} is at index ${index} in the array ${array}`);
+      });
+
+      //   JS Loops
+      for (let i = 0; i < shoppingList.length; i++) {
+        console.log(`List item:`, shoppingList[i]);
+      }
+
+      for (let item of shoppingList) {
+        console.log(item);
+      }
+    </script>
+  </body>
+</html>
