@@ -234,7 +234,7 @@ I focused on learning the fundamentals and setting up my environment for future 
 
 ---
 
-### ✅ Day 15 - [20 May 2025]
+### ✅ Day 16 - [20 May 2025]
 
 **Topic:** Today was all about writing better code and understanding core JavaScript concepts more deeply. 🧠💻  
 **What I Learnt:** 
@@ -249,3 +249,23 @@ I focused on learning the fundamentals and setting up my environment for future 
 
 
 #100DaysOfCode #JavaScript #TheOdinProject #WebDevelopment  #CleanCode #DOM #Frontend
+
+---
+
+### ✅ Day 17 - [21 May 2025]
+
+**Topic:** Continuing my JavaScript journey — today was all about deep diving into **DOM manipulation** and **event handling**. Plus, I added interactivity to my Rock Paper Scissors game! 🎮  
+**What I Learnt:** 
+
+- Completed more lessons from [The Odin Project](https://www.theodinproject.com/) JavaScript Foundations track
+- Learned and practiced:
+  - 📄 Selecting and manipulating DOM elements (`querySelector`, `innerText`, `classList`, etc.)
+  - 🧠 Understanding the structure of the DOM tree
+  - 🖱️ Handling **events** like `click`, `mouseover`, and `submit`
+  - ⏱️ Using `addEventListener()` for interactive elements
+- Enhanced my **Rock Paper Scissors game**:
+  - Replaced `console.log` gameplay with button-based interactivity
+  - Displayed results and scores in the browser dynamically
+  - Added win/loss logic
+
+#100DaysOfCode #JavaScript #WebDevelopment #DOM #EventHandling #Frontend #TheOdinProject 
