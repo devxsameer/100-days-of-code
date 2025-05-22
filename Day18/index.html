@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JS Objects</title>
+  </head>
+  <body>
+    <script>
+      let user = {
+        // an object
+        name: "John", // by key "name" store value "John"
+        age: 30, // by key "age" store value 30
+      };
+
+      console.log(user.name);
+      console.log(user.age);
+      user.isAdmin = true;
+      console.log(user.isAdmin);
+      console.log(user);
+      delete user.age;
+      console.log(user);
+      console.log(user.age);
+      console.log(user["name"]);
+      for (key in user) {
+        console.log(key, " ", user[key]);
+      }
+    </script>
+  </body>
+</html>
