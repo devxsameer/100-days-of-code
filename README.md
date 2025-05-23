@@ -294,3 +294,22 @@ I focused on learning the fundamentals and setting up my environment for future 
   - Practiced looping over object properties
 
 #100DaysOfCode #JavaScript #EtchASketch #TheOdinProject #WebDevelopment #Frontend #DOM #JSObjects 
+---
+
+### ✅ Day 19 - [23 May 2025]
+
+**Topic:** Today I tackled one of the most satisfying beginner frontend projects — a **calculator app**! This was part of the [Odin Project's](https://www.theodinproject.com/) curriculum, and it really helped reinforce my JavaScript and DOM skills.
+
+**What I Learnt:** 
+
+- 🧮 Built a fully functional calculator using **HTML, CSS, and JavaScript**
+- 🌗 Implemented a **Dark Mode / Light Mode** toggle with smooth theme switching
+- 🔢 Added support for:
+  - Basic arithmetic operations: +, −, ×, ÷
+  - Decimal handling
+  - Chained calculations
+  - Clear and delete buttons
+- 📱 Made the layout fully **responsive** for mobile and desktop
+
+
+#100DaysOfCode #JavaScript #TheOdinProject #WebDevelopment #Frontend #DOM  
