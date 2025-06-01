@@ -310,8 +310,6 @@ I focused on learning the fundamentals and setting up my environment for future 
   - Chained calculations
   - Clear and delete buttons
 - 📱 Made the layout fully **responsive** for mobile and desktop
-
-
 #100DaysOfCode #JavaScript #TheOdinProject #WebDevelopment #Frontend #DOM  
 ---
 
@@ -329,5 +327,25 @@ I focused on learning the fundamentals and setting up my environment for future 
 - Having a reliable laptop is truly crucial for seamless progress.  
 - Excited to get back to coding after a brief pause!  
 - Ready to keep pushing forward and complete this landing page conversion.
+
+#100DaysOfCode #WebDev #FrontendDevelopment #HTML #CSS #JavaScript
+
+---
+
+### ✅ Day 21 - [1 June 2025]
+
+**Topic:** Today marks **Day 21** of my #100DaysOfCode journey! 🚀
+
+**What I Did:** 
+
+- Revisited and revised the **Odin Project Foundations** course 📚  
+- Completed final modules and exercises, wrapping up this stage of the journey  
+- Revised key concepts like **DOM manipulation**, **console methods**, and **basic JavaScript fundamentals**  
+
+
+**What's Next?:** 
+
+🔜 **Starting tomorrow, I’ll begin following the Odin Project’s Full Stack JavaScript path!**  
+Excited to dive deeper into more advanced topics, frameworks, and full-stack development.
 
 #100DaysOfCode #WebDev #FrontendDevelopment #HTML #CSS #JavaScript

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JS RegEx</title>
+  </head>
+  <body>
+    <script>
+      console.log("JS REGEX");
+      const myText =
+        "The fat cat ran down the street. It was searching for a mouse to eat.";
+      console.log(myText.match(/[a-z]at/g));
+      const data = [
+        { id: 1, name: "Sameer Ali", age: 17 },
+        {
+          id: 2,
+          name: "Mohammed Fraz",
+          age: 21,
+        },
+        {
+          id: 3,
+          name: "Mohammed Hamza",
+          age: 19,
+        },
+      ];
+      //   Console Statements
+      console.time("time");
+      console.log("hello");
+      console.log({ data: data });
+      console.dir(data);
+      console.warn("this is a warning!");
+      console.error("this is a error");
+      console.info("this is some info");
+      console.table(data);
+      console.timeEnd("time");
+    </script>
+  </body>
+</html>
