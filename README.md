@@ -198,7 +198,7 @@ I focused on learning the fundamentals and setting up my environment for future 
 ### ✅ Day 14 - [18 May 2025]
 
 **Topic:** Today I continued my deep dive into **JavaScript** through The Odin Project, and explored how things work behind the scenes using the **browser developer tools**. 🧠🛠️  
-**What I Learnt:** 
+**What I Learnt:**
 
 - Completed more lessons from the **JavaScript Foundations** section of [The Odin Project](https://www.theodinproject.com/)
 - Learned about:
@@ -209,14 +209,14 @@ I focused on learning the fundamentals and setting up my environment for future 
   - Used **console**, **sources**, and **network** tabs
   - Practiced debugging and stepping through JS code
 
-#JavaScript #100DaysOfCode #WebDevelopment #TheOdinProject #DevTools #Frontend 
+#JavaScript #100DaysOfCode #WebDevelopment #TheOdinProject #DevTools #Frontend
 
 ---
 
 ### ✅ Day 15 - [19 May 2025]
 
 **Topic:** Today was an exciting and productive step in my JavaScript journey! 🧠💻  
-**What I Learnt:** 
+**What I Learnt:**
 
 - Continued with [The Odin Project](https://www.theodinproject.com/) JavaScript Foundations curriculum
 - Completed lessons on:
@@ -237,7 +237,7 @@ I focused on learning the fundamentals and setting up my environment for future 
 ### ✅ Day 16 - [20 May 2025]
 
 **Topic:** Today was all about writing better code and understanding core JavaScript concepts more deeply. 🧠💻  
-**What I Learnt:** 
+**What I Learnt:**
 
 - Continued with [The Odin Project](https://www.theodinproject.com/) JavaScript Foundations curriculum
 - Learned about:
@@ -247,15 +247,14 @@ I focused on learning the fundamentals and setting up my environment for future 
   - 🌐 **DOM Manipulation** using `querySelector`, `createElement`, `appendChild`, and more
   - 🖱️ **Event listeners** for adding interactivity to web pages
 
-
-#100DaysOfCode #JavaScript #TheOdinProject #WebDevelopment  #CleanCode #DOM #Frontend
+#100DaysOfCode #JavaScript #TheOdinProject #WebDevelopment #CleanCode #DOM #Frontend
 
 ---
 
 ### ✅ Day 17 - [21 May 2025]
 
 **Topic:** Continuing my JavaScript journey — today was all about deep diving into **DOM manipulation** and **event handling**. Plus, I added interactivity to my Rock Paper Scissors game! 🎮  
-**What I Learnt:** 
+**What I Learnt:**
 
 - Completed more lessons from [The Odin Project](https://www.theodinproject.com/) JavaScript Foundations track
 - Learned and practiced:
@@ -268,14 +267,13 @@ I focused on learning the fundamentals and setting up my environment for future 
   - Displayed results and scores in the browser dynamically
   - Added win/loss logic
 
-#100DaysOfCode #JavaScript #WebDevelopment #DOM #EventHandling #Frontend #TheOdinProject 
----
+## #100DaysOfCode #JavaScript #WebDevelopment #DOM #EventHandling #Frontend #TheOdinProject
 
 ### ✅ Day 18 - [22 May 2025]
 
 **Topic:** Today was a super productive day! I built a fun interactive project and also took a step forward in learning JavaScript fundamentals. 💡💻
 
-**What I Learnt:** 
+**What I Learnt:**
 
 - 🎨 Completed the **Etch-a-Sketch** project from [The Odin Project](https://www.theodinproject.com/)
   - Users can draw using a customizable grid
@@ -286,21 +284,20 @@ I focused on learning the fundamentals and setting up my environment for future 
     - Grid resizing (1x1 to 64x64)
     - Clear/reset functionality
   - Check it out and let me know what you think 👇  
-  🔗 [`Live Demo`](https://devxsameer.github.io/odin-etch-a-sketch)
+    🔗 [`Live Demo`](https://devxsameer.github.io/odin-etch-a-sketch)
   - See 🔗[`etch-a-sketch repo`](https://github.com/devxsameer/odin-etch-a-sketch)
 - 📚 Learned the basics of **JavaScript Objects**
   - Created and manipulated objects using dot/bracket notation
   - Understood key-value pairs, nested objects, and accessing properties
   - Practiced looping over object properties
 
-#100DaysOfCode #JavaScript #EtchASketch #TheOdinProject #WebDevelopment #Frontend #DOM #JSObjects 
----
+## #100DaysOfCode #JavaScript #EtchASketch #TheOdinProject #WebDevelopment #Frontend #DOM #JSObjects
 
 ### ✅ Day 19 - [23 May 2025]
 
 **Topic:** Today I tackled one of the most satisfying beginner frontend projects — a **calculator app**! This was part of the [Odin Project's](https://www.theodinproject.com/) curriculum, and it really helped reinforce my JavaScript and DOM skills.
 
-**What I Learnt:** 
+**What I Learnt:**
 
 - 🧮 Built a fully functional calculator using **HTML, CSS, and JavaScript**
 - 🌗 Implemented a **Dark Mode / Light Mode** toggle with smooth theme switching
@@ -310,22 +307,23 @@ I focused on learning the fundamentals and setting up my environment for future 
   - Chained calculations
   - Clear and delete buttons
 - 📱 Made the layout fully **responsive** for mobile and desktop
-#100DaysOfCode #JavaScript #TheOdinProject #WebDevelopment #Frontend #DOM  
+  #100DaysOfCode #JavaScript #TheOdinProject #WebDevelopment #Frontend #DOM
+
 ---
 
 ### ✅ Day 20 - [31 May 2025]
 
 **Topic:** Today marks **Day 20** of my #100DaysOfCode journey! 🚀
 
-**What Happened:** 
+**What Happened:**
 
 - 🛠️ My laptop had been struggling with battery and charger issues for the past week, but today it’s finally fixed and ready to go!
 - 🌟 With a fully powered-up laptop, I dove right back into web development by working on converting a Figma landing page design by **Muntasir Billah** into a live, responsive webpage.
 
-**Key Takeaways:** 
+**Key Takeaways:**
 
-- Having a reliable laptop is truly crucial for seamless progress.  
-- Excited to get back to coding after a brief pause!  
+- Having a reliable laptop is truly crucial for seamless progress.
+- Excited to get back to coding after a brief pause!
 - Ready to keep pushing forward and complete this landing page conversion.
 
 #100DaysOfCode #WebDev #FrontendDevelopment #HTML #CSS #JavaScript
@@ -336,36 +334,58 @@ I focused on learning the fundamentals and setting up my environment for future 
 
 **Topic:** Today marks **Day 21** of my #100DaysOfCode journey! 🚀
 
-**What I Did:** 
+**What I Did:**
 
-- Revisited and revised the **Odin Project Foundations** course 📚  
-- Completed final modules and exercises, wrapping up this stage of the journey  
-- Revised key concepts like **DOM manipulation**, **console methods**, and **basic JavaScript fundamentals**  
+- Revisited and revised the **Odin Project Foundations** course 📚
+- Completed final modules and exercises, wrapping up this stage of the journey
+- Revised key concepts like **DOM manipulation**, **console methods**, and **basic JavaScript fundamentals**
 
-
-**What's Next?:** 
+**What's Next?:**
 
 🔜 **Starting tomorrow, I’ll begin following the Odin Project’s Full Stack JavaScript path!**  
 Excited to dive deeper into more advanced topics, frameworks, and full-stack development.
 
 #100DaysOfCode #WebDev #FrontendDevelopment #HTML #CSS #JavaScript
 
+---
+
 ### ✅ Day 22 - [22 June 2025]
 
 **Topic:** After a break of over two weeks due to laptop issues, college assignments, and life in general — I’m back on track with my #100DaysOfCode journey! 🔥
 
-**What I Did:** 
+**What I Did:**
 
-- 📘 Submitted **Problem Set 0** for **Week 0 of CS50’s Introduction to Programming with Python (CS50P)**  
-- 🚀 Picked up where I left off on **The Odin Project’s Full Stack JavaScript Path**  
-- ✨ Learned and practiced **Emmet** – a powerful toolkit for writing HTML & CSS faster 
+- 📘 Submitted **Problem Set 0** for **Week 0 of CS50’s Introduction to Programming with Python (CS50P)**
+- 🚀 Picked up where I left off on **The Odin Project’s Full Stack JavaScript Path**
+- ✨ Learned and practiced **Emmet** – a powerful toolkit for writing HTML & CSS faster
 
+**What's Next?:**
 
-**What's Next?:** 
-
-- Continue with CS50P Week 1: learning about conditionals, loops, and variables in Python  
-- Progress through the early sections of the Full Stack JavaScript path  
+- Continue with CS50P Week 1: learning about conditionals, loops, and variables in Python
+- Progress through the early sections of the Full Stack JavaScript path
 
 Let’s go again — one line of code at a time! 💪
 
 #100DaysOfCode #CS50P #Python #TheOdinProject #WebDevelopment #Emmet #FullStackDev
+
+---
+
+### ✅ Day 23 - [23 June 2025]
+
+**Topic:** Back on track and moving ahead with a mix of **HTML**, **VS Code workflow improvements**, and **CS50P**! 🚀
+
+**What I Did:**
+
+- 🧩 **Learned about SVG in HTML**
+  - Understood how to embed Scalable Vector Graphics
+- 🧾 **Dove into HTML Tables**
+  - Explored proper structure, nesting, and accessibility considerations
+- 💡 **Explored VS Code Extensions & Shortcuts**
+  - Tried new extensions to speed up development
+  - Practiced time-saving keyboard shortcuts
+- 🐍 **Submitted Problem Set 1** of **CS50P**
+  - Continued learning Python through Harvard’s CS50P course
+
+Let’s keep the momentum going — 23% done, 77% to go! 💪🔥
+
+#100DaysOfCode #TheOdinProject #CS50P #WebDev #HTML #CSS #Python #SVG #VSCode #FrontendDevelopment

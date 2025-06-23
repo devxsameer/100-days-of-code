@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tables in Html</title>
+    <style>
+      table,
+      td,
+      th {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 5px;
+        text-align: center;
+      }
+      tbody {
+        font-size: 95%;
+        font-style: italic;
+      }
+
+      tfoot {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>First Header</th>
+        <th>Second Header</th>
+      </tr>
+      <tr>
+        <td>This is a data cell</td>
+        <td>This is also a data cell!</td>
+      </tr>
+    </table>
+    <!-- Table2 -->
+    <table>
+      <caption>
+        this is a caption
+      </caption>
+      <thead>
+        <tr>
+          <td>&nbsp;</td>
+          <th>Knocky</th>
+          <th>Flor</th>
+          <th>Ella</th>
+          <th>Juan</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th>Breed</th>
+          <td>Jack Russell</td>
+          <td>Poodle</td>
+          <td>Streetdog</td>
+          <td>Cocker Spaniel</td>
+        </tr>
+        <tr>
+          <th>Age</th>
+          <td>16</td>
+          <td>9</td>
+          <td>10</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <th>Owner</th>
+          <td>Mother-in-law</td>
+          <td colspan="2">Me</td>
+          <td>Sister-in-law</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <th>Eating Habits</th>
+          <td>Eats everyone's leftovers</td>
+          <td>Nibbles at food</td>
+          <td>Hearty eater</td>
+          <td>Will eat till he explodes</td>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+</html>
