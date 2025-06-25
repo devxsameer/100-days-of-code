@@ -1,0 +1,87 @@
+/* Wotfard */
+@font-face {
+  font-family: "Wotfard";
+  src: url("./fonts/wotfard/wotfard-regular-webfont.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Wotfard";
+  src: url("./fonts/wotfard/wotfard-regular-italic-webfont.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Wotfard";
+  src: url("./fonts/wotfard/wotfard-medium-webfont.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Wotfard";
+  src: url("./fonts/wotfard/wotfard-regular-webfont.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+/* Wotfard fallback */
+/* Regular */
+@font-face {
+  font-family: "Wotfard Fallback";
+  src: local("-apple-system"), local("BlinkMacSystemFont"), local("Segoe UI"),
+    local("Roboto"), local("Helvetica Neue"), local("Arial");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Italic */
+@font-face {
+  font-family: "Wotfard Fallback";
+  src: local("Segoe UI Italic"), local("Roboto Italic"),
+    local("Helvetica Neue Italic"), local("Arial Italic");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Medium */
+@font-face {
+  font-family: "Wotfard Fallback";
+  src: local("Segoe UI Semibold"), local("Roboto Medium"),
+    local("Helvetica Neue Medium");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* SemiBold */
+@font-face {
+  font-family: "Wotfard Fallback";
+  src: local("Segoe UI Bold"), local("Roboto Bold"),
+    local("Helvetica Neue Bold");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Cartograph */
+@font-face {
+  font-family: "Cartograph";
+  src: url("./fonts/cartograph-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Cartograph";
+  src: url("./fonts/cartograph-regular-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Cartograph";
+  src: url("./fonts/cartograph-extra-bold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}

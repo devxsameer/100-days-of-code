@@ -389,3 +389,23 @@ Let’s go again — one line of code at a time! 💪
 Let’s keep the momentum going — 23% done, 77% to go! 💪🔥
 
 #100DaysOfCode #TheOdinProject #CS50P #WebDev #HTML #CSS #Python #SVG #VSCode #FrontendDevelopment
+
+---
+
+### ✅ Day 24 - [24 June 2025]
+
+**Topic:** Today was all about diving deeper into **CSS fundamentals**, continuing my journey through the **Full Stack JavaScript path** on [The Odin Project](https://www.theodinproject.com/). 🎯
+
+**What I Did:**
+
+- 🔄 **Learned about CSS Resets**
+  - Understood how browsers apply default styles
+  - Explored different reset methods (Universal selector, Normalize.css, Eric Meyer's reset, etc.)
+- 📏 **Studied CSS Units in Depth**
+  - Absolute units: `px`, `cm`, `in`, etc.
+  - Relative units: `%`, `em`, `rem`, `vh`, `vw`, and when to use them
+  - Gained clarity on when and why to prefer relative units for responsive design
+
+Onward to cleaner, more consistent CSS! 💪
+
+#100DaysOfCode #TheOdinProject #CSS #WebDevelopment #Frontend #CSSUnits #CSSReset #CodeNewbie
