@@ -409,3 +409,24 @@ Let’s keep the momentum going — 23% done, 77% to go! 💪🔥
 Onward to cleaner, more consistent CSS! 💪
 
 #100DaysOfCode #TheOdinProject #CSS #WebDevelopment #Frontend #CSSUnits #CSSReset #CodeNewbie
+
+---
+
+### ✅ Day 25 - [25 June 2025]
+
+**Topic:** Today was all about mastering the art of **text and typography** using CSS — continuing my journey through the **Full Stack JavaScript Path** on [The Odin Project](https://www.theodinproject.com/). ✍️
+
+**What I Did:**
+
+- 🖋️ Learned advanced **text styling techniques** in CSS
+- 🔤 Explored how to use `@font-face` to load **custom fonts** locally
+- 🌐 Integrated **external fonts** from Google Fonts
+- 🔁 Learned about **font fallback stacks** for reliability across devices
+- ✨ Practiced various **text properties**, including:
+  - `letter-spacing`, `word-spacing`
+  - `line-height`, `text-transform`
+  - `text-align`, `text-decoration`, `text-shadow`, etc.
+
+Typography is where design meets code — and it’s fun to get creative while keeping it accessible! 🎨💻
+
+#100DaysOfCode #WebDev #CSS #Typography #TheOdinProject #FrontendDevelopment #Fonts #ResponsiveDesign
