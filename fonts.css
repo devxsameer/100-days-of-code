@@ -4,6 +4,7 @@
   src: url("./fonts/wotfard/wotfard-regular-webfont.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
+  font-display: fallback;
 }
 
 @font-face {
@@ -12,6 +13,7 @@
     format("woff2");
   font-weight: 400;
   font-style: italic;
+  font-display: fallback;
 }
 
 @font-face {
@@ -19,6 +21,7 @@
   src: url("./fonts/wotfard/wotfard-medium-webfont.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
+  font-display: fallback;
 }
 
 @font-face {
@@ -26,6 +29,7 @@
   src: url("./fonts/wotfard/wotfard-semibold-webfont.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
+  font-display: fallback;
 }
 /* Wotfard fallback */
 /* Regular */
@@ -35,6 +39,7 @@
     local("Roboto"), local("Helvetica Neue"), local("Arial");
   font-weight: 400;
   font-style: normal;
+  font-display: fallback;
 }
 
 /* Italic */
@@ -44,6 +49,7 @@
     local("Helvetica Neue Italic"), local("Arial Italic");
   font-weight: 400;
   font-style: italic;
+  font-display: fallback;
 }
 
 /* Medium */
@@ -53,6 +59,7 @@
     local("Helvetica Neue Medium");
   font-weight: 500;
   font-style: normal;
+  font-display: fallback;
 }
 
 /* SemiBold */
@@ -62,6 +69,7 @@
     local("Helvetica Neue Bold");
   font-weight: 600;
   font-style: normal;
+  font-display: fallback;
 }
 
 /* Cartograph */
@@ -70,6 +78,7 @@
   src: url("./fonts/cartograph-regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
+  font-display: fallback;
 }
 
 @font-face {
@@ -77,6 +86,7 @@
   src: url("./fonts/cartograph-regular-italic.woff2") format("woff2");
   font-weight: 400;
   font-style: italic;
+  font-display: fallback;
 }
 
 @font-face {
@@ -84,4 +94,5 @@
   src: url("./fonts/cartograph-extra-bold.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
+  font-display: fallback;
 }

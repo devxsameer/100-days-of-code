@@ -267,7 +267,7 @@ I focused on learning the fundamentals and setting up my environment for future 
   - Displayed results and scores in the browser dynamically
   - Added win/loss logic
 
-## #100DaysOfCode #JavaScript #WebDevelopment #DOM #EventHandling #Frontend #TheOdinProject
+#100DaysOfCode #JavaScript #WebDevelopment #DOM #EventHandling #Frontend #TheOdinProject
 
 ### ✅ Day 18 - [22 May 2025]
 
@@ -291,7 +291,7 @@ I focused on learning the fundamentals and setting up my environment for future 
   - Understood key-value pairs, nested objects, and accessing properties
   - Practiced looping over object properties
 
-## #100DaysOfCode #JavaScript #EtchASketch #TheOdinProject #WebDevelopment #Frontend #DOM #JSObjects
+#100DaysOfCode #JavaScript #EtchASketch #TheOdinProject #WebDevelopment #Frontend #DOM #JSObjects
 
 ### ✅ Day 19 - [23 May 2025]
 
@@ -430,3 +430,27 @@ Onward to cleaner, more consistent CSS! 💪
 Typography is where design meets code — and it’s fun to get creative while keeping it accessible! 🎨💻
 
 #100DaysOfCode #WebDev #CSS #Typography #TheOdinProject #FrontendDevelopment #Fonts #ResponsiveDesign
+
+### ✅ Day 26 - [26 June 2025]
+
+**Topic:** Another productive day of learning and applying **advanced CSS techniques** while continuing progress in **CS50P**! 🚀
+
+**What I Did:**
+
+🎨 **Advanced CSS Topics (The Odin Project - Full Stack JS Path):**
+
+- Explored **overflow** behavior and how to control it
+- Mastered **background shorthand** properties
+- Practiced **advanced CSS selectors**: child, sibling, attribute, and pseudo-selectors
+- Learned how to work with **opacity** and **box shadows** effectively
+- Styled borders with more **precision and variation**
+- Studied **CSS positioning**: `relative`, `absolute`, `fixed`, and `sticky`
+
+🐍 **CS50P Progress:**
+
+- Submitted **Problem Set 2**
+- Strengthened understanding of **functions**, **conditionals**, and **code structure** in Python
+
+Let’s keep building, debugging, and leveling up. Onward to Day 27! 💪
+
+#100DaysOfCode #TheOdinProject #CS50P #WebDev #CSS #FrontendDevelopment #Python #CodeNewbie

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../fonts.css" />
+    <title>CSS Fonts</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sriracha&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        font-size: 1rem;
+      }
+      body {
+        font-family: "Wotfard", sans-serif;
+        line-height: 1.5;
+        padding: 2vw;
+        display: flex;
+        -webkit-font-smoothing: antialiased;
+        line-height: calc(0.95 + 0.62rem);
+        display: flex;
+        justify-content: center;
+      }
+      ::selection {
+        background-color: black;
+        color: white;
+      }
+      em {
+        font-family: "Sriracha", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      p {
+        overflow-wrap: break-word;
+      }
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      p {
+        text-wrap: pretty;
+      }
+
+      p {
+        font-size: 1.125rem;
+        max-inline-size: 55ch;
+      }
+      .container {
+        width: 1200px;
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Para1</h2>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita
+        repudiandae sit, obcaecati sint quo earum tempora doloribus
+        necessitatibus, vitae dignissimos libero nulla cumque. Consequatur modi
+        possimus ipsa quas fuga, eos sed quam explicabo omnis non totam
+        laboriosam esse voluptatibus? Facilis, possimus ipsum rem odit sequi
+        incidunt laboriosam necessitatibus sit quaerat dolore error saepe modi,
+        enim vitae fuga in ipsa accusantium perspiciatis cum obcaecati!
+        Perferendis ut accusantium mollitia atque! Iste, quis.
+      </p>
+      <p>
+        This still works! Even without defining a starting opacity, our element
+        will still fade out when this keyframe animation is applied.
+      </p>
+      <p>
+        When I discovered this pattern a few years ago, I thought it was a neat
+        little trick to shave a few bytes off my bundles, a more concise way to
+        write keyframe animations.
+        <strong>
+          But it turns out, there's a way more significant and exciting benefit
+          to this pattern!
+        </strong>
+        This lil' trick unlocks a hidden capability within keyframe animations
+        that makes them <em>dynamic</em> and <em>composable</em>. ✨
+      </p>
+      <p>
+        In this tutorial, I'll show you how this trick works, and we'll explore
+        some of the cool things we can do with it. There's also a
+        <em>bonus</em> tip at the end, showcasing how modern CSS makes keyframe
+        animations even more powerful! 😄
+      </p>
+      <p>
+        In word processing and desktop publishing, a hard return or paragraph
+        break indicates a new paragraph, to be distinguished from the soft
+        return at the end of a line internal to a paragraph. This distinction
+        allows word wrap to automatically re-flow text as it is edited, without
+        losing paragraph breaks. The software may apply vertical white space or
+        indenting at paragraph breaks, depending on the selected style. How such
+        documents are actually stored depends on the file format. For example,
+        HTML uses the tag as a paragraph container. In plaintext files, there
+        are two common formats. The pre-formatted text will have a newline at
+        the end of every physical line, and two newlines at the end of a
+        paragraph, creating a blank line. An alternative is to only put newlines
+        at the end of each paragraph, and leave word wrapping up to the
+        application that displays or processes the text. A line break that is
+        inserted manually, and preserved when re-flowing, may still be distinct
+        from a paragraph break, although this is typically not done in prose.
+        HTML's tag produces a line break without ending the paragraph; the W3C
+        recommends using it only to separate lines of verse (where each
+        "paragraph" is a stanza), or in a street address.[5]
+      </p>
+      <h2>Para3</h2>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed quo fugiat
+        soluta! Perspiciatis nam a, iure possimus quos ea iste rem adipisci cum
+        id molestiae, quidem vel minus optio officia ut eos tempore distinctio
+        recusandae quibusdam atque autem odio sint.
+      </p>
+    </div>
+  </body>
+</html>
