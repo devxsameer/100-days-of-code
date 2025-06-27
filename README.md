@@ -431,6 +431,8 @@ Typography is where design meets code — and it’s fun to get creative while k
 
 #100DaysOfCode #WebDev #CSS #Typography #TheOdinProject #FrontendDevelopment #Fonts #ResponsiveDesign
 
+---
+
 ### ✅ Day 26 - [26 June 2025]
 
 **Topic:** Another productive day of learning and applying **advanced CSS techniques** while continuing progress in **CS50P**! 🚀
@@ -453,4 +455,25 @@ Typography is where design meets code — and it’s fun to get creative while k
 
 Let’s keep building, debugging, and leveling up. Onward to Day 27! 💪
 
-#100DaysOfCode #TheOdinProject #CS50P #WebDev #CSS #FrontendDevelopment #Python #CodeNewbie
+#100DaysOfCode #TheOdinProject #CS50P #WebDev #CSS #FrontendDevelopment #Python
+
+---
+
+### ✅ Day 27 - [27 June 2025]
+
+**Topic:** Today I focused on practicing **typography and text styling** in CSS — an essential part of building beautiful and readable interfaces. 🎨🖋️
+
+**What I Did:**
+
+- Chose a well-designed **typographic paragraph** as inspiration
+- Recreated the **layout, font styling, spacing, and alignment** using custom CSS
+- Focused on details like:
+  - `font-family`, `font-weight`, and `line-height`
+  - `letter-spacing`, `word-spacing`, and `text-align`
+  - Padding, margin, and overall readability
+
+Typography is subtle, but it’s powerful — and today’s hands-on practice was both fun and rewarding! 💪
+
+#100DaysOfCode #CSS #Typography #FrontendDevelopment #TheOdinProject #WebDesign
+
+---

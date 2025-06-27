@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS functions, properties etc</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Sriracha&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      *,
+      *::after,
+      *::before {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      :root {
+        font-size: 1rem;
+      }
+      body {
+        font-family: "Outfit", sans-serif;
+        font-optical-sizing: 0.5;
+        font-weight: 400;
+        font-style: normal;
+        -webkit-font-smoothing: antialiased;
+        line-height: 1.65;
+        background-color: hsl(210deg 15% 6%);
+        color: hsl(210deg 10% 90%);
+      }
+      @supports (font-size-adjust: 1) {
+        body {
+          font-size-adjust: 0.5;
+        }
+      }
+      h4 {
+        font-weight: 400;
+        font-size: 1rem;
+      }
+      ::selection {
+        background-color: black;
+        color: white;
+      }
+      em {
+        font-family: "Sriracha", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      h2 {
+        font-size: 2rem;
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      p {
+        overflow-wrap: break-word;
+      }
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      p {
+        text-wrap: pretty;
+      }
+
+      p {
+        font-size: 1.125rem;
+        max-inline-size: 55ch;
+      }
+      .container {
+        display: flex;
+        justify-content: center;
+        position: relative;
+        align-items: flex-start;
+        gap: 5vw;
+      }
+      .main-content {
+        overflow: hidden;
+        padding: 0 1rem;
+      }
+      .main-content > * {
+        margin-bottom: 1.25em;
+      }
+      .table-of-contents {
+        padding: 10px;
+        max-inline-size: 30ch;
+        position: sticky;
+        top: 20vh;
+      }
+      .table-of-contents h4 {
+        text-transform: uppercase;
+      }
+      .table-of-contents ul {
+        list-style: none;
+        color: gray;
+      }
+      .table-of-contents ul li {
+        margin-top: 1ch;
+      }
+      .table-of-contents ul li:hover {
+        color: white;
+      }
+      .active {
+        color: rgb(219, 74, 49);
+      }
+      .hero {
+        min-height: 50vh;
+      }
+      .code {
+        border: 1px solid hsl(210deg 10% 30%);
+        outline-offset: -1px;
+        width: 100%;
+        border-radius: 6px;
+      }
+      @media only screen and (max-width: 1200px) {
+        .table-of-contents {
+          display: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="hero">hi</div>
+    <div class="container">
+      <div class="main-content">
+        <h2>Para1</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita
+          repudiandae sit, obcaecati sint quo earum tempora doloribus
+          necessitatibus, vitae dignissimos libero nulla cumque. Consequatur
+          modi possimus ipsa quas fuga, eos sed quam explicabo omnis non totam
+          laboriosam esse voluptatibus? Facilis, possimus ipsum rem odit sequi
+          incidunt laboriosam necessitatibus sit quaerat dolore error saepe
+          modi, enim vitae fuga in ipsa accusantium perspiciatis cum obcaecati!
+          Perferendis ut accusantium mollitia atque! Iste, quis.
+        </p>
+        <div class="code">
+          <pre>
+              @keyframes fadeToTransparent {
+                to {
+                  opacity: 0;
+                }
+              }
+          </pre>
+        </div>
+        <p>
+          This still works! Even without defining a starting opacity, our
+          element will still fade out when this keyframe animation is applied.
+        </p>
+        <p>
+          When I discovered this pattern a few years ago, I thought it was a
+          neat little trick to shave a few bytes off my bundles, a more concise
+          way to write keyframe animations.
+          <strong>
+            But it turns out, there's a way more significant and exciting
+            benefit to this pattern!
+          </strong>
+          This lil' trick unlocks a hidden capability within keyframe animations
+          that makes them <em>dynamic</em> and <em>composable</em>. ✨
+        </p>
+        <p>
+          In this tutorial, I'll show you how this trick works, and we'll
+          explore some of the cool things we can do with it. There's also a
+          <em>bonus</em> tip at the end, showcasing how modern CSS makes
+          keyframe animations even more powerful! 😄
+        </p>
+        <p>
+          In word processing and desktop publishing, a hard return or paragraph
+          break indicates a new paragraph, to be distinguished from the soft
+          return at the end of a line internal to a paragraph. This distinction
+          allows word wrap to automatically re-flow text as it is edited,
+          without losing paragraph breaks. The software may apply vertical white
+          space or indenting at paragraph breaks, depending on the selected
+          style. How such documents are actually stored depends on the file
+          format. For example, HTML uses the tag as a paragraph container. In
+          plaintext files, there are two common formats. The pre-formatted text
+          will have a newline at the end of every physical line, and two
+          newlines at the end of a paragraph, creating a blank line. An
+          alternative is to only put newlines at the end of each paragraph, and
+          leave word wrapping up to the application that displays or processes
+          the text. A line break that is inserted manually, and preserved when
+          re-flowing, may still be distinct from a paragraph break, although
+          this is typically not done in prose. HTML's tag produces a line break
+          without ending the paragraph; the W3C recommends using it only to
+          separate lines of verse (where each "paragraph" is a stanza), or in a
+          street address.[5]
+        </p>
+        <h2>Para3</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed quo
+          fugiat soluta! Perspiciatis nam a, iure possimus quos ea iste rem
+          adipisci cum id molestiae, quidem vel minus optio officia ut eos
+          tempore distinctio recusandae quibusdam atque autem odio sint.
+        </p>
+      </div>
+      <div class="table-of-contents">
+        <h4>Table of Contents</h4>
+        <ul>
+          <li class="active">Introduction</li>
+          <li>Inherited values</li>
+          <li>Omitting the destination</li>
+          <li>Animating to a dynamic value</li>
+          <li>Whimsical Animations ✨</li>
+          <li>Bonus: dynamic values in keyframe definitions</li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
