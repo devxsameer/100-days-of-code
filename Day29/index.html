@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Form Styling</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Sriracha&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>CSS Form Styling, Validation</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+        error corporis animi veritatis quas nemo. Possimus nihil ratione
+        pariatur dolores rem. Earum officia, praesentium obcaecati cum et
+        repellendus quod voluptatum!
+      </p>
+      <form action="#" class="form">
+        <!-- Text -->
+        <fieldset>
+          <legend>Basic Info</legend>
+          <label for="first-name">
+            First Name*:
+            <input
+              type="text"
+              name="firstName"
+              id="first-name"
+              placeholder="Robert..."
+              required
+              maxlength="20"
+            />
+          </label>
+          <label for="last-name">
+            Last Name
+            <input
+              type="text"
+              id="last-name"
+              name="last_name"
+              placeholder="Baratheon..."
+              maxlength="20"
+            />
+          </label>
+          <!-- Email -->
+          <label for="email-id">
+            Email*:
+            <input
+              type="email"
+              name="emailId"
+              id="email-id"
+              placeholder="abc@example.com"
+              pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
+              required
+            />
+          </label>
+          <!-- Password -->
+          <label for="user-password">
+            Password*:
+            <input
+              type="password"
+              id="user-password"
+              name="password"
+              required
+            />
+          </label>
+          <!-- Numbers -->
+          <label for="amount">
+            Amount:
+            <input type="number" id="amount" name="amount" />
+          </label>
+          <!-- Date -->
+          <label for="dob">
+            Date of Birth:
+            <input type="date" id="dob" name="dob" />
+          </label>
+        </fieldset>
+        <fieldset>
+          <legend>More Info</legend>
+          <!-- Textarea -->
+          <textarea rows="5" minlength="10">Some initial content</textarea>
+          <!-- Select -->
+          <select name="Car">
+            <option value="mercedes">Mercedes</option>
+            <option value="tesla">Tesla</option>
+            <option value="volvo">Volvo</option>
+            <option value="bmw" selected>BMW</option>
+            <option value="mini">Mini</option>
+            <option value="ford">Ford</option>
+          </select>
+          <!-- Select with Optgroup -->
+          <select name="fashion">
+            <optgroup label="Clothing">
+              <option value="t_shirt">T-Shirts</option>
+              <option value="sweater">Sweaters</option>
+              <option value="coats">Coats</option>
+            </optgroup>
+            <optgroup label="Foot Wear">
+              <option value="sneakers">Sneakers</option>
+              <option value="boots">Boots</option>
+              <option value="sandals">Sandals</option>
+            </optgroup>
+          </select>
+        </fieldset>
+        <!-- Radio -->
+        <fieldset class="radio">
+          <legend>Ticket Type</legend>
+          <label for="child" class="radio-control">
+            <input type="radio" id="child" name="ticket_type" value="child" />
+            Child</label
+          >
+          <label for="adult" class="radio-control">
+            <input
+              type="radio"
+              id="adult"
+              name="ticket_type"
+              value="adult"
+              checked
+            />
+            Adult</label
+          >
+          <label for="senior" class="radio-control">
+            <input type="radio" id="senior" name="ticket_type" value="senior" />
+            Senior</label
+          >
+        </fieldset>
+        <!-- Checkboxes -->
+        <fieldset class="checkboxes">
+          <legend>Pizza Toppings</legend>
+
+          <label for="sausage" class="checkbox-control">
+            <input
+              type="checkbox"
+              id="sausage"
+              name="topping"
+              value="sausage"
+            />
+            Sausage
+          </label>
+          <label for="onions" class="checkbox-control">
+            <input type="checkbox" id="onions" name="topping" value="onions" />
+            Onions
+          </label>
+          <label for="pepperoni" class="checkbox-control">
+            <input
+              type="checkbox"
+              id="pepperoni"
+              name="topping"
+              value="pepperoni"
+            />
+            Pepperoni</label
+          >
+          <label for="mushrooms" class="checkbox-control">
+            <input
+              type="checkbox"
+              id="mushrooms"
+              name="topping"
+              value="mushrooms"
+            />
+            Mushrooms</label
+          >
+        </fieldset>
+        <div>
+          <h3>
+            <label for="newsletter" class="checkbox-control">
+              <input
+                type="checkbox"
+                id="newsletter"
+                name="news_letter"
+                checked
+              />
+              Send me the news letter</label
+            >
+          </h3>
+        </div>
+        <button type="submit">Submit</button>
+        <button type="reset">Reset</button>
+      </form>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,87 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --form-control-color: black;
+}
+body {
+  font-family: "Outfit", sans-serif;
+  accent-color: var(--form-control-color);
+}
+.container {
+  margin: 2rem;
+}
+input[type="text"] {
+  font-family: monospace;
+}
+form > * {
+  margin-bottom: 1em;
+}
+fieldset {
+  padding: 0.5rem;
+}
+textarea {
+  display: block;
+}
+form select {
+  font-family: "Outfit", sans-serif;
+}
+.radio-control,
+.checkbox-control {
+  font-family: "Outfit", system-ui, sans-serif;
+  font-weight: normal;
+  line-height: 1.1;
+  display: grid;
+  grid-template-columns: 1em auto;
+  gap: 0.5em;
+}
+input[type="radio"],
+input[type="checkbox"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: #fff;
+  color: currentColor;
+  font: inherit;
+  width: 1.15em;
+  height: 1.15em;
+  border: 0.15em solid currentColor;
+  border-radius: 50%;
+  transform: translateY(-0.075em);
+  display: grid;
+  place-content: center;
+  margin-bottom: 0.5em;
+}
+input[type="checkbox"] {
+  border-radius: 0.15em;
+}
+input[type="radio"]::before,
+input[type="checkbox"]::before {
+  content: "";
+  width: 0.65em;
+  height: 0.65em;
+  transform: scale(0);
+  transition: 120ms transform ease-in-out;
+  box-shadow: inset 1em 1em var(--form-control-color);
+  background-color: CanvasText;
+}
+input[type="radio"]::before {
+  border-radius: 50%;
+}
+input[type="checkbox"]::before {
+  transform-origin: bottom left;
+  clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+}
+input[type="radio"]:checked::before,
+input[type="checkbox"]:checked::before {
+  transform: scale(1);
+}
+fieldset {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 1em;
+  align-items: center;
+}
