@@ -1,0 +1,30 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Outfit", sans-serif;
+  line-height: 1.55;
+}
+.container {
+  min-height: 80vh;
+  padding: 2rem;
+}
+.wrapper {
+  height: 75vh;
+  background-color: black;
+  padding: 1rem;
+  gap: 5px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 2fr 2fr;
+  grid-auto-rows: 1fr;
+  /* grid-auto-columns: 1fr;
+  grid-auto-flow: column; */
+}
+.box {
+  background-color: white;
+}
