@@ -1,40 +1,38 @@
 # 💯 100 Days of Code Challenge
 
-Welcome to my 100 Days of Code journey! 👨‍💻🚀  
-This repo is my public log of learning, projects, bugs, breakthroughs.
+Welcome to my **#100DaysOfCode** journey! 👨‍💻🚀  
+This repo is my public log of learning, projects, bugs, and breakthroughs — basically, my developer diary (minus the coffee stains ☕).
 
-Whether you're here to get inspired, review my progress, or just enjoy some nerdy commentary — I'm glad you're here.
+Whether you're here to get inspired, review my progress, or just enjoy some nerdy commentary — I’m glad you stopped by!
 
 ---
 
 ## 📅 What is #100DaysOfCode?
 
-The #100DaysOfCode challenge is a commitment to code for at least **1 hour every day for 100 days ( not consecutive )**
+The **#100DaysOfCode** challenge is a commitment to code for at least **1 hour every day for 100 days (not necessarily consecutive)**.
 
-I’m following this challenge to:
+I’m doing this challenge to:
 
-- Reinforce my skills through daily practice
-- Follow structured resources (like The Odin Project & CS50P)
-- Build real, visible projects
-- Share progress and learn publicly 🌱
+- Reinforce my skills through consistent daily practice
+- Follow structured, high-quality resources (like **The Odin Project** & **CS50P**)
+- Build real, visible, portfolio-worthy projects
+- Share progress publicly — learning in the open 🌱
 
 ---
 
-## 🔥 Progress Logs
+## 🧭 My Journey So Far
 
-To keep things clean and readable, I’ve split the log into three separate markdown files:
+I’ve split my logs into separate files for readability and sanity (trust me, it gets long 😅):
 
 | Log Part                         | Description                                                            |
 | -------------------------------- | ---------------------------------------------------------------------- |
 | 📘 [Days 1–30](./day01-30.md)    | HTML/CSS foundations, small projects, and starting JS & Python (CS50P) |
 | 📗 [Days 31–60](./day31-60.md)   | Intermediate projects, DOM mastery, and deeper JavaScript concepts     |
-| 📙 [Days 61–100](./day61-100.md) | Final projects, real-world components, API usage, full-stack learning  |
+| 📙 [Days 61–100](./day61-100.md) | Real-world projects, APIs, React, and full-stack workflows             |
 
 ---
 
-## 🛠️ Tools, Courses & Resources
-
-Here’s what I’ve been using during the challenge:
+## ⚙️ Tools, Courses & Resources
 
 ### 📚 Courses
 
@@ -43,37 +41,54 @@ Here’s what I’ve been using during the challenge:
 
 ### 🧰 Tech Stack
 
-- HTML, CSS, JavaScript, Python
-- Git, GitHub, VS Code
-- Figma for UI inspiration
-- A whole lot of Google 🙃
+- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS
+- **Tools:** Git, GitHub, VS Code
+- **Design:** Figma for UI inspiration
+- **Helpers:** Webpack, Babel, ESLint, Prettier
+- And of course... a _healthy_ relationship with **Google** 🙃
 
 ---
 
-## 🧠 What I’m Gaining
+## 🚀 What I’ve Gained
 
-- Better problem-solving through daily repetition
-- Deeper understanding of how the web works
-- Stronger ability to build user interfaces from scratch
-- More confidence in debugging and structuring code
-- Momentum and motivation from sharing progress daily
+After 100 days of code, coffee, and chaos, here’s what I’ve really learned:
+
+- 🧠 Stronger **problem-solving skills** through consistent challenges
+- 💡 A deeper understanding of **how the web actually works**
+- 🏗️ The ability to build real, responsive UIs from scratch
+- 🐞 Improved debugging, refactoring, and clean coding habits
+- 🔥 Confidence to take on bigger, more complex projects
+
+---
+
+## 🏆 Highlights at a Glance
+
+| Project                                                   | Tech Stack                   | Description                                                      |
+| --------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------- |
+| 🌤️ [Zephyr](https://devxsameer.github.io/zephyr/)         | Vanilla JS, Webpack          | Real-time weather app with dynamic backgrounds & API integration |
+| ⚔️ Battleship                                             | JS, Jest                     | TDD-based game featuring AI logic and testing coverage           |
+| 🧾 [DevProfile](https://github.com/devxsameer/devprofile) | React, TailwindCSS           | Interactive resume builder with live preview & PDF export        |
+| 🎮 [Arcadia](https://github.com/devxsameer/arcadia)       | React, RAWG API, React Query | Video game discovery app with infinite scroll & dynamic routes   |
+| 🍥 Flippuden                                              | React                        | Naruto-themed memory game with state management & fun UI         |
 
 ---
 
 ## 📌 Connect with Me
 
-If you're doing #100DaysOfCode too — or just wanna geek out:
+If you're also doing **#100DaysOfCode**, or just want to talk about web dev, memes, or semicolons gone rogue — come say hi!
 
-- 🐦 [Follow me on X (Twitter)](https://x.com/devxsameer)
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/devxsameer/)
-- 🌐 [Check out my portfolio (Work in Progress)]()
+- 🐦 [X (Twitter)](https://x.com/devxsameer)
+- 💼 [LinkedIn](https://www.linkedin.com/in/devxsameer/)
+- 🌐 Portfolio: _(coming soon!)_
 
 ---
 
-## ☕ Bonus
+## ☕ Final Thoughts
 
-This README grows with the challenge — just like I do.  
-Come back later… I’ll probably be adding more puns and better projects. 😄
+This challenge started with simple HTML and ended with complex React apps.  
+From `console.log("Hello World")` to `useEffect()` dependencies — it’s been one wild ride.
+
+This README (like me) will keep evolving. Check back later… it’ll probably have more puns and better code. 😄
 
 ---
 
